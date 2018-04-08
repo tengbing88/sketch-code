@@ -51,7 +51,7 @@ python convert_single_image.py --png_path ../examples/drawn_example1.png \
       --model_weights_file ../bin/weights.h5
 ```
 
-
+0
 ## General Usage
 
 Converting a single image into HTML code, using weights:
